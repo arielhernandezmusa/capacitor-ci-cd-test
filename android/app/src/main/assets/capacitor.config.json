@@ -1,0 +1,13 @@
+{
+  "appId": "com.i0fabric.cicd.test",
+  "appName": "capacitor-ci-cd-test",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
